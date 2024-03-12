@@ -1,6 +1,6 @@
 ### Hi there,
 
-I am Adrian and I worked as a computer scientist / software engineer and partly also as a data engineer and full stack developer.
+I am Adrian and I worked as a computer scientist & software engineer and partly also as a data engineer & full stack developer.
 Here are some of my open GitHub repositories for people who like to have a look into my works.
 
 From 2023 to 2024, I worked at Devoteam and created a **[Event Management platform in Python/Django](https://github.com/adibaba/django-events?tab=readme-ov-file#readme)** as a proof of concept.
@@ -14,31 +14,33 @@ If you are more into text than code, take a look into the [OPAL project results]
 You can also check the final [OPAL presentation slides](https://projekt-opal.github.io/doc/final-presentation/Praesentation/) in HTML.
 
 Later, I joined the project *Explainable machine learning for interactive episodic updates of models*.
-We published an article and conducted experiments, which are available in the [Drift Detection repository (Jupyter notebooks)]([https://github.com/EML4U/Drift-detector-comparison](https://github.com/EML4U/Drift-detector-comparison#readme)).
+We published an article and conducted experiments, which are available in the [Drift Detection repository (Jupyter notebooks)](https://github.com/EML4U/Drift-detector-comparison#readme).
 I also explored possibilities for Drift Explanations via Polygons and Hyperboxes.
-That is more in the direction shown in the **[data analysis presentation](https://eml4u.github.io/assets/img/EML4U_final_presentation.pdf)**. You can fetch some insights on the final presentation slides 5 to 8.
+That is more in the direction shown in the [data analysis presentation](https://eml4u.github.io/assets/img/EML4U_final_presentation.pdf). You can fetch some insights on the final presentation slides 5 to 8.
 
 In between, I implemented some frontends and APIs.
 I do not host them, but during writing this, some examples are still online.
-I did the Website and [Embeddings.cc JavaScript API](https://embeddings.cc/api) for developers ([code](https://github.com/dice-group/embeddings.cc)) and the [LauNuts SPARQL query interface](https://adibaba.github.io/LauNuts/#sparql).
+I did the Website and **[embeddings.cc JavaScript API](https://embeddings.cc/api)** for developers ([code](https://github.com/dice-group/embeddings.cc)) and the **[LauNuts SPARQL query JavaScript interface](https://adibaba.github.io/LauNuts/#sparql)** ([code](https://github.com/adibaba/LauNuts/tree/github.io)), which is integrated in hosting at GitHub.
+The embeddings.cc virtual machine was configured by me and uses Elasticsearch in the backend.
+I also got **DevOps** skills during the work with various systems, e.g. Docker.
+A minimal (and nowadays outdated) example is the pre-configuration of an online programming exercises system for our students at [Java Online Exercises Docker repository](https://github.com/dice-group/JavaOnlineExercises).
 
+From 2015 to 2017, I took a break from coding and focused on **requirements analysis** for a mobile app in the apprenticeship in the field of mechanical engineering.
+There is no code repository, but this field of work is highly relevant for customer projects and their individual requirements.
+There is a presentation regarding [media competeny](https://adibaba.github.io/MLS/Workshop-1/Praesentation) for trainers and a [product presentation](https://cs.uni-paderborn.de/fileadmin-eim/informatik/fg/ddi/Forschung/Projekte/MLS/MLS-Anwenderworkshop-2017.pdf).
+You can also have a look at the Mobile Learning in Smart Factories [MLS project website](https://cs.uni-paderborn.de/ddi/forschungsprojekte/abgeschlossene-projekte/mls) at the Computer Education Group at Paderborn University.
 
-<!--
-### Hi there 👋
+In 2014, I worked as a project engineer at RapidMiner.
+In this period, a had a focus on **Java** and worked on a multi-repository-copy-feature, GUI, XML parsing and i18n.
+I collected the [Java files in RapidMiner Studio](https://adibaba.github.io/rapidminer-studio/) with contributions from my side.
 
-**adibaba/adibaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I finished my Computer Science studies in 2014.
+In my master's thesis 2013, I developed a system for distributed computation of biliometrics on big data using **Java** and Hadoop
+([PDF](https://digital.ub.uni-paderborn.de/download/pdf/2424565.pdf))
+([DOI](https://doi.org/10.17619/UNIPB/1-88)).
+In my bachelor's thesis 2010, I implemented a system for analysis and integration of data into a system data networks using **Java** and Equinox/OSGi/RDF.
+([PDF](https://digital.ub.uni-paderborn.de/download/pdf/2424552.pdf))
+([DOI](https://doi.org/10.17619/UNIPB/1-87)).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-If you want to learn about RDF, check my collected [RDF learning resources](https://github.com/dice-group/dice-website/blob/9534fe4d876b254509316ac3dfe5c6252dd2cda3/pages/news/2022-07-26_Learn-RDF.mdx).
--->
+Some of articles are available at [ORCID](https://orcid.org/0000-0002-6575-807X).
+You can find me via [LinkedIn](https://www.linkedin.com/in/adrianwilke/).
