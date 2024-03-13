@@ -40,7 +40,7 @@ In this period, a had a focus on **Java** and worked on a multi-repository-copy-
 I collected the [Java files in RapidMiner Studio ☕](https://adibaba.github.io/rapidminer-studio/) with contributions from my side.
 
 I finished my Computer Science studies in 2014.
-In my master's thesis 2013 I developed a system for distributed computation of biliometrics on big data using **Java** and **Hadoop**
+In my master's thesis 2013 I developed a system for distributed computation of bibliometrics on big data using **Java** and **Hadoop**
 ([PDF in German](https://digital.ub.uni-paderborn.de/download/pdf/2424565.pdf)/[DOI](https://doi.org/10.17619/UNIPB/1-88)).
 In my bachelor's thesis 2010 I implemented a system for analysis and integration of various data sources using **Java** and Knowledge Graphs
 ([PDF](https://digital.ub.uni-paderborn.de/download/pdf/2424552.pdf)/[DOI](https://doi.org/10.17619/UNIPB/1-87)).
