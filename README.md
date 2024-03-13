@@ -15,13 +15,13 @@ If you are more into text than code, take a look into the [OPAL project results 
 You can also check the final [OPAL presentation slides (web)](https://projekt-opal.github.io/doc/final-presentation/Praesentation/), also in German.
 For resources partly in English, take a look at the [OPAL deliverables (web)](https://github.com/projekt-opal/doc/tree/master/deliverables).
 
-Later, I joined the project ***Explainable Machine Learning** for interactive episodic updates of models (EML4U)*.
+Later I joined the project ***Explainable Machine Learning** for interactive episodic updates of models (EML4U)*.
 We conducted experiments and published an article available in the [drift detection repository (Jupyter notebooks) 🐍](https://github.com/EML4U/Drift-detector-comparison#readme).
 I also explored possibilities for drift explanations via semantic similarity in embeddings using polygons and hyperboxes.
 That is more in the direction of **data analysis** and shown in the [EML4U presentation (PDF)](https://eml4u.github.io/assets/img/EML4U_final_presentation.pdf), where you can fetch some insights on slides 5 to 8.
 Data engineering was also part of the following projects.
 
-In between, I implemented some frontends and **APIs** using **JavaScript**.
+In between I implemented some frontends and **APIs** using **JavaScript**.
 I do not host them, but at the time of writing some examples are still online.
 I realized the website and the [embeddings.cc API ✨](https://github.com/dice-group/embeddings.cc) ([demo](https://embeddings.cc/api)) to provide **microservices** for developers and the [LauNuts SPARQL query interface ✨](https://github.com/adibaba/LauNuts/tree/github.io) ([demo](https://adibaba.github.io/LauNuts/#sparql)), which is integrated in hosting at GitHub.
 The embeddings.cc virtual machine was configured by me and uses **Elasticsearch** in the backend.
