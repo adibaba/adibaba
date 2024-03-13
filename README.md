@@ -10,7 +10,7 @@ I also created an [event management platform in Django 🐍](https://github.com/
 From 2018 to 2023, I worked at the Data Science Group at Paderborn University with a focus on **Java** and Knowledge Graphs [🤔](https://dice-research.org/news/2022-07-26_Learn-RDF/).
 I was part of the developers team and later the **project manager** in the *Open Data Portal Germany (OPAL)* project.
 In that project, we transferred and optimized open metadata records into 5-Star Linked Open Data [🤔](https://5stardata.info/).
-I implemented and curated the majority of the [OPAL repositories ☕](https://github.com/projekt-opal/doc?tab=readme-ov-file#main-opal-repositories).
+I implemented and curated the majority of the [OPAL repositories ☕](https://github.com/projekt-opal/doc#repositories).
 If you are more into text than code, take a look into the [OPAL project results (PDF)](https://arxiv.org/pdf/2105.03161.pdf) which are available in a 72-pages document in German.
 You can also check the final [OPAL presentation slides (web)](https://projekt-opal.github.io/doc/final-presentation/Praesentation/), also in German.
 For resources partly in English, take a look at the [OPAL deliverables (web)](https://github.com/projekt-opal/doc/tree/master/deliverables).
@@ -31,7 +31,7 @@ A minimal (and nowadays outdated) example is the pre-configuration of an online 
 
 From 2015 to 2017, I took a break from coding and focused on **requirements analysis** for a mobile app in the apprenticeship in the field of mechanical engineering.
 There is no code repository, but this field of work is highly relevant for customer projects and their individual requirements.
-There is a presentation regarding [media competeny (web)](https://adibaba.github.io/MLS/Workshop-1/Praesentation) for trainers in mechanical engineering and a [presentation of the mobile application (PDF)](https://cs.uni-paderborn.de/fileadmin-eim/informatik/fg/ddi/Forschung/Projekte/MLS/MLS-Anwenderworkshop-2017.pdf).
+There is a presentation regarding [media competeny (web)](https://adibaba.github.io/MLS/Workshop-1/Praesentation) for trainers in mechanical engineering and a [presentation of the mobile application (PDF)](https://cs.uni-paderborn.de/fileadmin-eim/informatik/fg/ddi/Forschung/Projekte/MLS/MLS-Anwenderworkshop-2017.pdf), both in German.
 You can also have a look at the *Mobile Learning in Smart Factories* [MLS project (web)](https://cs.uni-paderborn.de/ddi/forschungsprojekte/abgeschlossene-projekte/mls) at the Computer Education Group at Paderborn University.
 
 In 2014, I worked as a project engineer at RapidMiner.
@@ -40,7 +40,7 @@ I collected the [Java files in RapidMiner Studio ☕](https://adibaba.github.io/
 
 I finished my Computer Science studies in 2014.
 In my master's thesis 2013, I developed a system for distributed computation of biliometrics on big data using **Java** and **Hadoop**
-([PDF](https://digital.ub.uni-paderborn.de/download/pdf/2424565.pdf)/[DOI](https://doi.org/10.17619/UNIPB/1-88)).
+([PDF in German](https://digital.ub.uni-paderborn.de/download/pdf/2424565.pdf)/[DOI](https://doi.org/10.17619/UNIPB/1-88)).
 In my bachelor's thesis 2010, I implemented a system for analysis and integration of various data sources using **Java** and Knowledge Graphs.
 ([PDF](https://digital.ub.uni-paderborn.de/download/pdf/2424552.pdf)/[DOI](https://doi.org/10.17619/UNIPB/1-87)).
 
