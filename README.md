@@ -44,7 +44,7 @@ In my master's thesis 2013, I developed a system for distributed computation of 
 In my bachelor's thesis 2010, I implemented a system for analysis and integration of various data sources using **Java** and Knowledge Graphs.
 ([PDF](https://digital.ub.uni-paderborn.de/download/pdf/2424552.pdf)/[DOI](https://doi.org/10.17619/UNIPB/1-87)).
 
-Some of articles are available at [ORCID](https://orcid.org/0000-0002-6575-807X) and [Paderborn University](https://go.upb.de/wilke).
+Some of articles are available at [ORCID](https://orcid.org/0000-0002-6575-807X), [Paderborn University](https://go.upb.de/wilke) and [DICE](https://dice-research.org/AdrianWilke).
 Related presentations are located at [slideshare](https://de.slideshare.net/adrianwilke).  
 You can get in **contact** via [LinkedIn](https://www.linkedin.com/in/adrianwilke/) or send me an [email](http://adrianwilke.de/).
 
